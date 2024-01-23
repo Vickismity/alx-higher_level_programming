@@ -1,4 +1,4 @@
-#!usr/bin/pyhton3
+#!/usr/bin/pyhton3
 def delete_at(my_list=[], idx=0):
     length = len(my_list)
     if idx >lenght - 1:
